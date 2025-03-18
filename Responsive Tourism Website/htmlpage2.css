@@ -1,0 +1,49 @@
+.favorite-places-bg-image {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/towerbg.png");
+}
+
+.favourite-places-heading {
+    color: white;
+    padding: 20px;
+    font-style: normal;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.places-container {
+    background-color: white;
+    height: 500px;
+    width: 470px;
+    margin: 10px;
+    border-radius: 20px;
+    padding: 15px;
+}
+
+.places-heading {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.places-paragraph {
+    padding: 2px;
+}
+
+.image-element {
+    height: 350px;
+    width: 300px;
+}
+
+.places-main-container {
+    display: flex;
+    flex-direction: row;
+}
+.go-back-to-home-section-button-element{
+    text-align: center;
+    margin: 9px;
+
+}
+
+
+
+
+
